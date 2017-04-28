@@ -6,7 +6,10 @@ alla "morte" di tutti i threads il programma mostra a schermo il numero di volte
 
 # composizione:
 il programma è conposto da 2 classi
+
 - main
 - TicTacToe
+
 nel **main** vengono dichiarati i threads e fatti partire
+
 in **TicTacToe** si gestisce il ciclo del thread (stampa della stringa di countdown) 
