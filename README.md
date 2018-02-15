@@ -2,7 +2,7 @@
 JAVA Mutithreading per le classi 4te
 
 Con questo progetto vorrei introdurre gli allievi delle 4te ai concetti di Programmazione Concorrente
-
+***
 ## Cos'e' la con-correnza?
 e' il verificarsi di eventi allo stesso tempo (contemporaneamente)
 
